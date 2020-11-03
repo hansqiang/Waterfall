@@ -80,9 +80,7 @@ ImageLoadingListener mImageLoadingListener = new ImageLoadingListener() {
     
 ## Donation
 
-顶着项目进度的危险做出来的，如果觉得做的可以，捐赠一点，我会加把努力的，谢谢。
- * 支付宝：kjsoloho[at]gmail[dot]com
- * Paypal：kjsoloho[at]gmail[dot]com
+
 
 ---
 
